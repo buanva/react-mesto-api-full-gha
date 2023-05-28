@@ -1,0 +1,7 @@
+.popup__form-wrapper {
+    width: calc(100% - 38px);
+    max-width: 430px;
+    display: flex;
+    position: relative;
+}
+

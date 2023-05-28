@@ -1,0 +1,10 @@
+.auth__caption-link {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    transition: opacity .3s linear;
+}
+
+.auth__caption-link:hover {
+    opacity: .8;
+}
